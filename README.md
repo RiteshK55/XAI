@@ -1,2 +1,2 @@
 # Explainable-AI
-This repo contains 3 files for EfficientNet implementation for 3 datasets - FRLL, MIFS, WMCA
+This repo contains the EfficientNet implementation for 3 datasets - FRLL.
